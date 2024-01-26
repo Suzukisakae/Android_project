@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tuan3_LeThanhVinh_21110940" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Tuan3_LeThanhVinh_21110940" parent="Base.Theme.Tuan3_LeThanhVinh_21110940" />
+</resources>

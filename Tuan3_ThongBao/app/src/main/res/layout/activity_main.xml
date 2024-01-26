@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Some of Dialogs"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+
+    
+    <TableLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        >
+        <TableRow>
+            <Button
+                android:id="@+id/btnDialog"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Button Dialog"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                />
+            <Button
+                android:id="@+id/btnListDialog"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="List Dialog"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                />
+        </TableRow>
+        <TableRow >
+            <Button
+                android:id="@+id/btnRadioDialog"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Radio Dialog"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                />
+            <Button
+                android:id="@+id/btnCheckBoxDialog"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Checkbox Dialog"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                />
+        </TableRow>
+        <TableRow>
+            <Button
+                android:id="@+id/btnProgressDialog"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Progress Dialog"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                />
+            <Button
+                android:id="@+id/btnProgressBarDialog"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Progress Bar Dialog"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                />
+        </TableRow>
+        <TableRow>
+            <Button
+                android:id="@+id/btnCustomDialog"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Custom Dialog"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                />
+        </TableRow>
+        <TextView
+            android:id="@+id/txtDisplay"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Click on any button to display dialog"
+            android:textSize="20sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            />
+
+    </TableLayout>
+<!--    Insert Image-->
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/dancing_oshi_no_ko"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+
+
+
+</LinearLayout>
