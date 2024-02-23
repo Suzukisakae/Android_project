@@ -13,3 +13,8 @@
 
 - Bài 1: Quản lí thông báo: buttonDialog, listDialog, progressbarDialog, customDialog,...
 - Bài 2: Đọc ghi file
+
+<h3> Tuần 4 </h3>
+
+- Bài 1: Login
+- Bài 2: In thông tin

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#a6a6e5"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tài khoản :"
+        android:textSize="25dp"
+        android:textColor="#FFFF00"
+        android:layout_marginTop="171dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mật khẩu :"
+        android:textSize="25dp"
+        android:textColor="#FFFF00"
+        android:layout_marginTop="250dp"/>
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtus"
+        android:inputType="textPersonName"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="161dp"
+        android:layout_marginLeft="120dp"/>
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtpw"
+        android:inputType="textPassword"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="240dp"
+        android:layout_marginLeft="120dp"/>
+
+    <Button
+        android:id="@+id/btndn"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@id/txtpw"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="100dp"
+        android:background="#f9caca"
+        android:text="Đăng Nhập"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/ic_action_name"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="150dp"/>
+
+</RelativeLayout>
