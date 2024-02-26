@@ -18,3 +18,4 @@
 
 - Bài 1: Login
 - Bài 2: In thông tin
+- Bài 3, 4: Tạo listview cơ bản, tạo listview với custom layout
