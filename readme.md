@@ -19,3 +19,6 @@
 - Bài 1: Login
 - Bài 2: In thông tin
 - Bài 3, 4: Tạo listview cơ bản, tạo listview với custom layout
+
+<h3> Tuần 5 </h3>
+- Bài 1: Nhập menu
