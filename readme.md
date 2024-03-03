@@ -21,4 +21,8 @@
 - Bài 3, 4: Tạo listview cơ bản, tạo listview với custom layout
 
 <h3> Tuần 5 </h3>
+
 - Bài 1: Nhập menu
+- Bài 2: Tạo Spinner
+- Bài 3: Xóa sản phẩm
+- Bài 4: QUản lí sinh viên
