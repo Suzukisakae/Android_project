@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tuan6_21110940_QuanLiPhongBan</string>
+    <string name="hello_world">Hello_World !</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_thiet_lap_truong_phong">ThietLapTruongPhong</string>
+    <string name="title_activity_danh_sach_nhan_vien">DanhSachNhanVien</string>
+
+    <string name="title_activity_them_nhan_vien">ThemNhanVien</string>
+    <string name="title_activity_chuyen_phong_ban">ChuyenPhongBanActivity</string>
+</resources>
