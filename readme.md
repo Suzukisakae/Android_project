@@ -30,3 +30,9 @@
 <h3> Tuần 6 </h3>
 
 - Quản lí phòng ban - sinh viên
+
+<h3> Tuan 7 </h3>
+
+- Bai 1: chuyen hai man hinh
+- Bai 2: giao tiep giua hai man hinh
+- Bai 3: tao TabHost, tabLayout trong mot man hinh
