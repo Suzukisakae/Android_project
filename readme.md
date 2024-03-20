@@ -36,3 +36,5 @@
 - Bai 1: chuyen hai man hinh
 - Bai 2: giao tiep giua hai man hinh
 - Bai 3: tao TabHost, tabLayout trong mot man hinh
+- VD1: Gui SMS
+- VD2: Mở camera
