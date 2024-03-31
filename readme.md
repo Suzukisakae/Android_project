@@ -38,3 +38,11 @@
 - Bai 3: tao TabHost, tabLayout trong mot man hinh
 - VD1: Gui SMS
 - VD2: Mở camera
+
+<h3> Tuan 8 </h3>
+
+- Bai 1: SQL Lite
+
+<h3> Tuan 9 </h3>
+
+- Kiểm tra giữa kì
