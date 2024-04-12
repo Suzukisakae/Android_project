@@ -46,3 +46,8 @@
 <h3> Tuan 9 </h3>
 
 - Kiểm tra giữa kì
+
+<h3> Tuan 11 <h3>
+
+- Bài tập SQLite
+- Firebase
