@@ -47,7 +47,11 @@
 
 - Kiểm tra giữa kì
 
-<h3> Tuan 11 <h3>
+<h3> Tuan 11 </h3>
 
 - Bài tập SQLite
 - Firebase
+
+<h3> Tuan 13 </h3>
+
+- Quan lí sinh vien dung Firebase, SQLite
