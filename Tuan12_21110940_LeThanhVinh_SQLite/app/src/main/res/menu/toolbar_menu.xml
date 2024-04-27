@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mnThem"
+        android:title="Thêm"
+        android:icon="@drawable/outline_add_24"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/mnHien"
+        android:title="Hiện"
+        android:icon="@drawable/baseline_account_tree_24"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/mnThoat"
+        android:title="Thoát"
+        android:icon="@drawable/baseline_arrow_back_24"
+        app:showAsAction="ifRoom"
+        />
+</menu>
